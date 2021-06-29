@@ -12,10 +12,15 @@ So, the objective of the CartPole is to keep it from falling or moving out of th
 To keep the CartPole continuing on for infinitely many steps, we limit the number of steps to some value (393 in my case).
 
 Team name 
+
 SV 
+
 Project name 
+
 DEEP Q LEARNING
+
 Team members
+
 Saumya Arora
 saumya.19jdai054@jietjodhpur.ac.in
 19EJDAI044
