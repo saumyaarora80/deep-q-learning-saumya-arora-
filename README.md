@@ -3,7 +3,7 @@ Reinforcement Learning is an exciting field of Machine Learning that’s attract
 
 CART POLE PROBLEM
 
-CartPole problem is the problem of balancing the CartPole. CartPole is the structure where a pole is attached to the cart and the cart is free to slide across the frictionless surface. By sliding the cart left or right, the CartPole is balanced.
+CartPole problem is the problem of balancing the CartPole. CartPole is a structure in which a pole is attached to the cart, and the cart is free to slide across a frictionless surface. By sliding the cart left or right, the CartPole is balanced.
 
 Objective
 So, the objective of the CartPole is to keep it from falling or moving out of the range. Therefore, the failure conditions are:
